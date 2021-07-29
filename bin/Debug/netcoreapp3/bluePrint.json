@@ -1,0 +1,18 @@
+{
+  "ChannelSpeaker": {
+  "ChannelSpeaker_How_To_Choose": "ChannelSpeaker_How_To_Choose_Value",
+  "ChannelSpeaker_Marantz_SR8015": "ChannelSpeaker_Marantz_SR8015_Value"
+},
+  "Projector": {
+  "Projector_How_To_Choose": "Projector_How_To_Choose_Value",
+  "Projector_Marantz_SR8015": "Projector_Marantz_SR8015_Value"
+},
+  "Receiver": {
+  "Receiver_How_To_Choose": "Receiver_How_To_Choose_Value",
+  "Receiver_Marantz_SR8015": "Receiver_Marantz_SR8015_Value"
+},
+  "TV": {
+  "TV_How_To_Choose": "TV_How_To_Choose_Value",
+  "TV_Marantz_SR8015": "TV_Marantz_SR8015_Value"
+}
+}

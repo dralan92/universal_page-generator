@@ -7,5 +7,6 @@ namespace UniversalPageGenerator.Services
         List<string> GetSiloList();
 
         void GenerateBluePrint();
+        Dictionary<string, object> ReadBluePrint();
     }
 }

@@ -1,8 +1,10 @@
-﻿using Newtonsoft.Json;
+﻿using Nancy.Json;
+using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using System.Runtime.Serialization.Formatters;
 using System.Threading.Tasks;
 
 namespace UniversalPageGenerator.Services
@@ -109,6 +111,26 @@ namespace UniversalPageGenerator.Services
             var valueToReplace = "\"" + parent + "_Value"+"\"";
             bluePrintContent = bluePrintContent.Replace(valueToReplace, json);
             File.WriteAllText("bluePrint.json", bluePrintContent);
+        }
+
+        public Dictionary<string, object> ReadBluePrint()
+        {
+            var dict = new Dictionary<string, object>();
+            using (StreamReader r = new StreamReader("bluePrint.json"))
+            {
+                string json = r.ReadToEnd();
+                var serializer = new JavaScriptSerializer();
+                var receivedjson = serializer.Deserialize<Dictionary<string, string>>(json);
+                var _jsonSettings = new JsonSerializerSettings
+                {
+                    TypeNameHandling = TypeNameHandling.All,
+                    TypeNameAssemblyFormat = FormatterAssemblyStyle.Full
+                };
+                dict = JsonConvert.DeserializeObject<Dictionary<string, object>>(json, _jsonSettings);
+                
+            }
+
+            return dict;
         }
     }
 }

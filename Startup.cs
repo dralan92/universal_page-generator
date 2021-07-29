@@ -39,7 +39,7 @@ namespace UniversalPageGenerator
                 });
             });
 
-            serviceProvider.GetRequiredService<IBluePrintService>().GenerateBluePrint();
+            serviceProvider.GetRequiredService<IBluePrintService>().ReadBluePrint();
         }
     }
 }

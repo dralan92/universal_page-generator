@@ -1,18 +1,50 @@
 {
   "ChannelSpeaker": {
-  "ChannelSpeaker_How_To_Choose": "ChannelSpeaker_How_To_Choose_Value",
-  "ChannelSpeaker_Marantz_SR8015": "ChannelSpeaker_Marantz_SR8015_Value"
+  "ChannelSpeaker_How_To_Choose": {
+  "Image": null,
+  "Data": "./siloDb/ChannelSpeaker/ChannelSpeaker_How_To_Choose/Receiver_How_To_Choose.json",
+  "Template": "./siloDb/ChannelSpeaker/ChannelSpeaker_How_To_Choose/Receiver_How_To_Choose_Template.txt"
+},
+  "ChannelSpeaker_Marantz_SR8015": {
+  "Image": "./siloDb/ChannelSpeaker/ChannelSpeaker_Marantz_SR8015/Receiver_Marantz_SR8015.jpg",
+  "Data": "./siloDb/ChannelSpeaker/ChannelSpeaker_Marantz_SR8015/Receiver_Marantz_SR8015.json",
+  "Template": "./siloDb/ChannelSpeaker/ChannelSpeaker_Marantz_SR8015/Receiver_Marantz_SR8015_Template.txt"
+}
 },
   "Projector": {
-  "Projector_How_To_Choose": "Projector_How_To_Choose_Value",
-  "Projector_Marantz_SR8015": "Projector_Marantz_SR8015_Value"
+  "Projector_How_To_Choose": {
+  "Image": null,
+  "Data": "./siloDb/Projector/Projector_How_To_Choose/Receiver_How_To_Choose.json",
+  "Template": "./siloDb/Projector/Projector_How_To_Choose/Receiver_How_To_Choose_Template.txt"
+},
+  "Projector_Marantz_SR8015": {
+  "Image": "./siloDb/Projector/Projector_Marantz_SR8015/Receiver_Marantz_SR8015.jpg",
+  "Data": "./siloDb/Projector/Projector_Marantz_SR8015/Receiver_Marantz_SR8015.json",
+  "Template": null
+}
 },
   "Receiver": {
-  "Receiver_How_To_Choose": "Receiver_How_To_Choose_Value",
-  "Receiver_Marantz_SR8015": "Receiver_Marantz_SR8015_Value"
+  "Receiver_How_To_Choose": {
+  "Image": null,
+  "Data": "./siloDb/Receiver/Receiver_How_To_Choose/Receiver_How_To_Choose.json",
+  "Template": "./siloDb/Receiver/Receiver_How_To_Choose/Receiver_How_To_Choose_Template.txt"
+},
+  "Receiver_Marantz_SR8015": {
+  "Image": "./siloDb/Receiver/Receiver_Marantz_SR8015/Receiver_Marantz_SR8015.jpg",
+  "Data": "./siloDb/Receiver/Receiver_Marantz_SR8015/Receiver_Marantz_SR8015.json",
+  "Template": null
+}
 },
   "TV": {
-  "TV_How_To_Choose": "TV_How_To_Choose_Value",
-  "TV_Marantz_SR8015": "TV_Marantz_SR8015_Value"
+  "TV_How_To_Choose": {
+  "Image": null,
+  "Data": "./siloDb/TV/TV_How_To_Choose/Receiver_How_To_Choose.json",
+  "Template": "./siloDb/TV/TV_How_To_Choose/Receiver_How_To_Choose_Template.txt"
+},
+  "TV_Marantz_SR8015": {
+  "Image": "./siloDb/TV/TV_Marantz_SR8015/Receiver_Marantz_SR8015.jpg",
+  "Data": "./siloDb/TV/TV_Marantz_SR8015/Receiver_Marantz_SR8015.json",
+  "Template": null
+}
 }
 }

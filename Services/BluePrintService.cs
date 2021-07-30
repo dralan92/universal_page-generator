@@ -61,9 +61,13 @@ namespace UniversalPageGenerator.Services
                 {
                     foreach(var siloItem in siloItems)
                     {
-                        var path = "./siloDb/" + silo + "/" + siloItem;
-                        var siloFilesDict = GetSiloItemFiles(path);
-                        WriteDictionaryToFile(siloFilesDict, siloItem);
+                        if(siloItem.Split("_").Last() != "Template")
+                        {
+                            var path = "./siloDb/" + silo + "/" + siloItem;
+                            var siloFilesDict = GetSiloItemFiles(path);
+                            WriteDictionaryToFile(siloFilesDict, siloItem);
+                        }
+                        
                     }
                 }
             }
@@ -86,11 +90,9 @@ namespace UniversalPageGenerator.Services
         {
             var siloFiles_image = Directory.GetFiles(siloItemFolder, "*.jpg").Select(s=>s.Replace("\\","/")).ToList().FirstOrDefault();
             var siloFiles_data = Directory.GetFiles(siloItemFolder, "*.json").Select(s=>s.Replace("\\","/")).ToList().FirstOrDefault();
-            var siloFiles_template = Directory.GetFiles(siloItemFolder, "*.txt").Select(s=>s.Replace("\\","/")).ToList().FirstOrDefault();
             return new Dictionary<string, string>() {
                 {"Image", siloFiles_image},
                 { "Data", siloFiles_data},
-                { "Template", siloFiles_template}
             };
         }
 
@@ -132,5 +134,7 @@ namespace UniversalPageGenerator.Services
 
             return dict;
         }
+
+
     }
 }

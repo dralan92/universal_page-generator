@@ -18,16 +18,10 @@ C:\Users\user\source\repos\UniversalPageGenerator\UniversalPageGenerator\obj\Deb
 C:\Users\user\source\repos\UniversalPageGenerator\UniversalPageGenerator\bin\Debug\netcoreapp3\Newtonsoft.Json.dll
 C:\Users\user\source\repos\UniversalPageGenerator\UniversalPageGenerator\obj\Debug\netcoreapp3\UniversalPageGenerator.csproj.CopyComplete
 C:\Users\user\source\repos\UniversalPageGenerator\UniversalPageGenerator\bin\Debug\netcoreapp3\bluePrint.json
-C:\Users\user\source\repos\UniversalPageGenerator\UniversalPageGenerator\bin\Debug\netcoreapp3\siloDb\ChannelSpeaker\ChannelSpeaker_How_To_Choose\Receiver_How_To_Choose.json
-C:\Users\user\source\repos\UniversalPageGenerator\UniversalPageGenerator\bin\Debug\netcoreapp3\siloDb\ChannelSpeaker\ChannelSpeaker_Marantz_SR8015\Receiver_Marantz_SR8015.json
-C:\Users\user\source\repos\UniversalPageGenerator\UniversalPageGenerator\bin\Debug\netcoreapp3\siloDb\Projector\Projector_How_To_Choose\Receiver_How_To_Choose.json
-C:\Users\user\source\repos\UniversalPageGenerator\UniversalPageGenerator\bin\Debug\netcoreapp3\siloDb\Projector\Projector_Marantz_SR8015\Receiver_Marantz_SR8015.json
-C:\Users\user\source\repos\UniversalPageGenerator\UniversalPageGenerator\bin\Debug\netcoreapp3\siloDb\Receiver\Receiver_How_To_Choose\Receiver_How_To_Choose.json
-C:\Users\user\source\repos\UniversalPageGenerator\UniversalPageGenerator\bin\Debug\netcoreapp3\siloDb\Receiver\Receiver_Marantz_SR8015\Receiver_Marantz_SR8015.json
-C:\Users\user\source\repos\UniversalPageGenerator\UniversalPageGenerator\bin\Debug\netcoreapp3\siloDb\TV\TV_How_To_Choose\Receiver_How_To_Choose.json
-C:\Users\user\source\repos\UniversalPageGenerator\UniversalPageGenerator\bin\Debug\netcoreapp3\siloDb\TV\TV_Marantz_SR8015\Receiver_Marantz_SR8015.json
 C:\Users\user\source\repos\UniversalPageGenerator\UniversalPageGenerator\bin\Debug\netcoreapp3\Microsoft.DotNet.PlatformAbstractions.dll
 C:\Users\user\source\repos\UniversalPageGenerator\UniversalPageGenerator\bin\Debug\netcoreapp3\Microsoft.Extensions.DependencyModel.dll
 C:\Users\user\source\repos\UniversalPageGenerator\UniversalPageGenerator\bin\Debug\netcoreapp3\Microsoft.Extensions.PlatformAbstractions.dll
 C:\Users\user\source\repos\UniversalPageGenerator\UniversalPageGenerator\bin\Debug\netcoreapp3\Nancy.dll
 C:\Users\user\source\repos\UniversalPageGenerator\UniversalPageGenerator\obj\Debug\netcoreapp3\UniversalPageGenerator.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\source\repos\UniversalPageGenerator\UniversalPageGenerator\bin\Debug\netcoreapp3\siloDb\Receiver\Receiver_Denon_AVR-S650H\Receiver_Denon_AVR-S650H.json
+C:\Users\user\source\repos\UniversalPageGenerator\UniversalPageGenerator\bin\Debug\netcoreapp3\siloDb\Receiver\Receiver_Onkyo_TX-NR5100\Receiver_Onkyo TX-NR5100.json

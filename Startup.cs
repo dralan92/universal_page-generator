@@ -18,6 +18,7 @@ namespace UniversalPageGenerator
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddTransient<IBluePrintService, BluePrintService>();
+            services.AddTransient<IExcelToJsonService, ExcelToJsonService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -39,7 +40,7 @@ namespace UniversalPageGenerator
                 });
             });
 
-            serviceProvider.GetRequiredService<IBluePrintService>().ReadBluePrint();
+            serviceProvider.GetRequiredService<IBluePrintService>().GenerateBluePrint();
         }
     }
 }

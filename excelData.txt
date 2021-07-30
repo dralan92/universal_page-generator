@@ -1,0 +1,69 @@
+Number Of Channels	5
+Stereo RMS Power (watts)	75
+THD in Stereo	0.08 %
+Frequency Bandwidth (stereo)	20-20k Hz
+Minimum Impedance L/R	4 ohms
+Minimum Impedance Center	4 ohms
+Minimum Impedance Surround	4 ohms
+Bluetooth	Built-in
+Apple AirPlay	AirPlay 2
+Alexa-compatible	Yes
+Google Assistant-compatible	Yes
+Chromecast built-in	No
+DTS Play-Fi	No
+App Remote Control	Yes
+On-Screen Display	Thru HDMI
+Auto Speaker Calibration	Audyssey MultEQ
+Multi-room Audio/Video
+Powered Multi-room Audio Output	No
+Preamp Multi-room Audio Output	No
+Multi-room HDMI Output	No
+Total Number of Zones	1
+Playback from Digital Audio Inputs	No
+Playback from Streaming Sources	No
+Dolby Digital	DD, TrueHD, DD+
+Dolby Atmos	No
+Dolby Atmos Height Virtualization	No
+DTS	DTS, HD, HDMA, 96/24
+DTS:X	No
+DTS Virtual:X	No
+Phono Input	1
+Audio-Video Inputs	5
+Audio-only Inputs	3
+Component Video Inputs	None
+Component Video Monitor Outputs	None
+Optical Digital Inputs	2
+Coaxial Digital Inputs	1
+Optical Digital Outputs	None
+Coaxial Digital Outputs	None
+Number of HDMI Inputs	5
+HDMI Monitor Outputs	1
+Subwoofer Outputs	2
+Discrete Subwoofer Outputs	No
+Multi-Channel Analog Input	No
+Multi-channel Preamp Output	No
+Main Speaker Output Pairs	Posts
+Main Speaker Terminals	Posts
+Ethernet Port	Yes
+USB Connections	Y
+Removable Power Cord	No
+Supports Wireless Rear Speakers	No
+HDMI Version	2.0b
+VRR (Variable Refresh Rate)	No
+ALLM (Auto Low Latency Mode)	Yes
+4K/120Hz-Capable Inputs	None
+Audio Return Channel	eARC supported
+Video Upscaling	No
+HDR10	Yes
+HDR10+	No
+HLG	Yes
+Dolby Vision	Yes
+FM Sensitivity	12.8 dBf
+Multibrand Remote Control	No
+Learning Remote	No
+Width (inches)	17.1875
+Height (inches)	5.9375
+Depth (inches)	13.4375
+Weight (pounds)	17.2
+Parts Warranty	2 Years
+Labor Warranty	2 Years

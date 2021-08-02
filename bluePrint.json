@@ -1,13 +1,20 @@
 {
   "Receiver": {
-  "Receiver_Denon_AVR-S650H": {
-  "Image": "./siloDb/Receiver/Receiver_Denon_AVR-S650H/Receiver_Denon_AVR-S650H.jpg",
-  "Data": "./siloDb/Receiver/Receiver_Denon_AVR-S650H/Receiver_Denon_AVR-S650H.json"
+  "Anthem_MRX-740": {
+  "Image": "./siloDb/Receiver/Anthem_MRX-740/Anthem_MRX-740.jpg",
+  "Data": "./siloDb/Receiver/Anthem_MRX-740/Anthem_MRX-740.json"
 },
-  "Receiver_Onkyo_TX-NR5100": {
-  "Image": "./siloDb/Receiver/Receiver_Onkyo_TX-NR5100/Receiver_Onkyo_TX-NR5100.jpg",
-  "Data": "./siloDb/Receiver/Receiver_Onkyo_TX-NR5100/Receiver_Onkyo TX-NR5100.json"
+  "Arcam_AVR20": {
+  "Image": "./siloDb/Receiver/Arcam_AVR20/Arcam_AVR20.jpg",
+  "Data": "./siloDb/Receiver/Arcam_AVR20/Arcam_AVR20.json"
 },
-  "Receiver_Template": "Receiver_Template_Value"
+  "Denon_AVR-S540BT": {
+  "Image": "./siloDb/Receiver/Denon_AVR-S540BT/Denon_AVR-S540BT.jpg",
+  "Data": "./siloDb/Receiver/Denon_AVR-S540BT/Denon_AVR-S540BT.json"
+},
+  "Marantz_NR1510-2019": {
+  "Image": "./siloDb/Receiver/Marantz_NR1510-2019/Marantz_NR1510-2019.jpg",
+  "Data": "./siloDb/Receiver/Marantz_NR1510-2019/Marantz_NR1510-2019.json"
+}
 }
 }

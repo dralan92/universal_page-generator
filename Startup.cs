@@ -21,6 +21,8 @@ namespace UniversalPageGenerator
             services.AddTransient<IExcelToJsonService, ExcelToJsonService>();
             services.AddTransient<IPageGenerationService, PageGenerationService>();
             services.AddTransient<ISiloService, SiloService>();
+            services.AddTransient<ICrossPageSqlService, CrossPageSqlService>();
+            services.AddTransient<ISinglePageSqlService, SinglePageSqlService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

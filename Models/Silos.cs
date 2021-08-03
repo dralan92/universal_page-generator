@@ -10,4 +10,16 @@ namespace UniversalPageGenerator.Models
         public List<string> SiloList { get; set; }
 
     }
+
+    public class PageSql
+    {
+        public string PageShortCode { get; set; }
+        public string ExpandedSql { get; set; }
+
+    }
+
+    public class CrossPageData
+    {
+
+    }
 }
